@@ -25,7 +25,7 @@
 		F29B07271C9AFAF6008ACE32 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		F29B072A1C9AFAF6008ACE32 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		F29B072C1C9AFAF6008ACE32 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
-		F29B07341C9AFC9A008ACE32 /* HomeViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = HomeViewController.swift; sourceTree = "<group>"; };
+		F29B07341C9AFC9A008ACE32 /* HomeViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; name = HomeViewController.swift; path = ../HomeViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -42,7 +42,6 @@
 		F29B07111C9AFAF6008ACE32 = {
 			isa = PBXGroup;
 			children = (
-				F29B07341C9AFC9A008ACE32 /* HomeViewController.swift */,
 				F29B071C1C9AFAF6008ACE32 /* someGitiOS */,
 				F29B071B1C9AFAF6008ACE32 /* Products */,
 			);
@@ -61,6 +60,7 @@
 			children = (
 				F29B071D1C9AFAF6008ACE32 /* AppDelegate.swift */,
 				F29B071F1C9AFAF6008ACE32 /* ViewController.swift */,
+				F29B07341C9AFC9A008ACE32 /* HomeViewController.swift */,
 				F29B07211C9AFAF6008ACE32 /* Main.storyboard */,
 				F29B07271C9AFAF6008ACE32 /* Assets.xcassets */,
 				F29B07291C9AFAF6008ACE32 /* LaunchScreen.storyboard */,

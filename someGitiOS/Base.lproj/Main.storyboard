@@ -20,11 +20,30 @@
                     </view>
                     <connections>
                         <segue destination="qDL-xY-f2v" kind="show" id="uoT-Zh-yUh"/>
+                        <segue destination="xrq-g4-MOb" kind="show" id="hgS-MQ-cbD"/>
                     </connections>
                 </viewController>
                 <placeholder placeholderIdentifier="IBFirstResponder" id="dkx-z0-nzr" sceneMemberID="firstResponder"/>
             </objects>
             <point key="canvasLocation" x="453" y="468"/>
+        </scene>
+        <!--View Controller-->
+        <scene sceneID="Zlq-bH-sTQ">
+            <objects>
+                <viewController id="xrq-g4-MOb" sceneMemberID="viewController">
+                    <layoutGuides>
+                        <viewControllerLayoutGuide type="top" id="IAd-4m-MEh"/>
+                        <viewControllerLayoutGuide type="bottom" id="EaK-db-MOO"/>
+                    </layoutGuides>
+                    <view key="view" contentMode="scaleToFill" id="m9z-7H-51f">
+                        <rect key="frame" x="0.0" y="0.0" width="600" height="600"/>
+                        <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
+                        <color key="backgroundColor" white="1" alpha="1" colorSpace="calibratedWhite"/>
+                    </view>
+                </viewController>
+                <placeholder placeholderIdentifier="IBFirstResponder" id="kIu-46-6h1" userLabel="First Responder" sceneMemberID="firstResponder"/>
+            </objects>
+            <point key="canvasLocation" x="1091" y="1152"/>
         </scene>
         <!--Home View Controller-->
         <scene sceneID="9gx-K7-g34">
